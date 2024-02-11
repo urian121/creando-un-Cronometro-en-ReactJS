@@ -1,8 +1,11 @@
-# React + Vite
+# Creando un Cronómetro en Reactjs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### El proyecto "Creando un Cronómetro en React" implica desarrollar una aplicación web que utiliza React para crear un cronómetro funcional. Utiliza componentes, estado y eventos de React para mostrar y controlar el tiempo transcurrido, permitiendo iniciar, detener y reiniciar el cronómetro de manera interactiva.
 
-Currently, two official plugins are available:
+### Para correr el proyecto solo basta ejecutar npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    esto instalar todas las dependencias del proyecto, luego solo queda ejecutar el proyecto con npm run dev
+
+### Resultado final
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/cronometro-en-react.png)

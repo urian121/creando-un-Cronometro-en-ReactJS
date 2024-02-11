@@ -3,7 +3,7 @@ import Cronometro from "./components/Cronometro";
 function App() {
   return (
     <>
-      <h1>Creando un Cronómetro en React</h1>
+      <h1>Creando un Cronómetro en ReactJS</h1>
       <Cronometro />
     </>
   );
